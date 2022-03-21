@@ -34,6 +34,8 @@ https://www.paddlepaddle.org.cn/
 
 https://github.com/PaddlePaddle/PaddleSeg
 
+https://github.com/ZHKKKe/MODNet  
+
 
 
 
