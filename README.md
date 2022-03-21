@@ -17,7 +17,7 @@ https://blog.csdn.net/u010302327/article/details/78898781
 
 https://blog.csdn.net/DickyQie/article/details/123554666
 
-##功能：
+功能：
 
 1.在人像抠图Demo中，默认会载入一张人像图像，并会在图像下方给出CPU的预测结果和预测时延；
 2.在人像抠图Demo中，你还可以通过右上角的"打开本地相册"和"打开摄像头拍照"按钮分别从相册或相机中加载测试图像然后进行预测推理；
